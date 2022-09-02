@@ -1,0 +1,38 @@
+[
+    {
+        "id": "DynamoDB",
+        "name": "DynamoDB-AWS-CFY",
+        "description": "Creating AWS DynamoDB table",
+        "html_url": "https://github.com/cloudify-community/cloudify-catalog/tree/6.3.0-build/aws/dynamodb",
+        "zip_url": "https://repository.cloudifysource.org/cloudify/blueprints/6.3/aws/DynamoDB.zip",
+        "readme_url": "https://raw.githubusercontent.com/cloudify-community/cloudify-catalog/6.3.0-build/aws/dynamodb/README.md",
+        "main_blueprint": "blueprint.yaml",
+        "image_url": "https://raw.githubusercontent.com/cloudify-community/cloudify-catalog/6.3.0-build/aws/dynamodb/logo.png",
+        "crated_at": "2022-07-14T12:32:24Z",
+        "updated_at": "2022-07-14T12:32:24Z"
+    },
+    {
+        "id": "EBS",
+        "name": "EBS-AWS-CFY",
+        "description": "Creating EBS volume",
+        "html_url": "https://github.com/cloudify-community/cloudify-catalog/tree/6.3.0-build/aws/ebs",
+        "zip_url": "https://repository.cloudifysource.org/cloudify/blueprints/6.3/aws/EBS.zip",
+        "readme_url": "https://raw.githubusercontent.com/cloudify-community/cloudify-catalog/6.3.0-build/aws/ebs/README.md",
+        "main_blueprint": "blueprint.yaml",
+        "image_url": "https://raw.githubusercontent.com/cloudify-community/cloudify-catalog/6.3.0-build/aws/ebs/logo.png",
+        "crated_at": "2022-07-14T12:32:24Z",
+        "updated_at": "2022-07-14T12:32:24Z"
+    },
+    {
+        "id": "EC2",
+        "name": "EC2-AWS-CFY",
+        "description": "Creating generating SSH key, creating a KeyPair and provisioning an EC2 instance",
+        "html_url": "https://github.com/cloudify-community/cloudify-catalog/tree/6.3.0-build/aws/ec2",
+        "zip_url": "https://repository.cloudifysource.org/cloudify/blueprints/6.3/aws/EC2.zip",
+        "readme_url": "https://raw.githubusercontent.com/cloudify-community/cloudify-catalog/6.3.0-build/aws/ec2/README.md",
+        "main_blueprint": "blueprint.yaml",
+        "image_url": "https://raw.githubusercontent.com/cloudify-community/cloudify-catalog/6.3.0-build/aws/ec2/logo.png",
+        "crated_at": "2022-07-14T12:32:24Z",
+        "updated_at": "2022-07-14T12:32:24Z"
+    }
+]
